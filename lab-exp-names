@@ -1,0 +1,20 @@
+1 Write a simple calculator program in C/C++/JAVA 1 1
+2 Write a program using FLEX. 1 2,5
+3 Implementation of scanner by specifying Regular Expressions. 1 2,5
+4 Write a program using BISON. 2 2,5
+5 Write a program for Top Down Parsing - predictive parsing table
+(Removal of Left recursion/Left factoring and Compute FIRST &
+FOLLOW).
+2 2
+6 Write a program for Bottom Up Parsing - SLR Parsing 3 2
+7 Introduction to basic Java - Programs in java 3 2
+8 Write a program to traverse syntax trees and perform action arithmetic
+operations
+3 2
+9 Write an Intermediate code generation for If/While. 4 3
+10 Code Generation Introduction to MIPS Assembly language- (Teach
+SPIM MIPS simulator).
+4 3
+11 Write a program to generate machine code for a simple statement 5 3
+12 Write a program to generate machine code for an indexed assignment
+statement
